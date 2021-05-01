@@ -11,8 +11,11 @@
 2. Install the requirement.txt file in your system before that make sure python is installed in your sytem:
     > After installation of Python use the command:  **pip install requirement.txt**
     
-3. After that create the superuser: **py manage.py createsuperuser
+3. After that create the superuser: **py manage.py createsuperuser**
 
-4. Use the runserver: **py manage.py runserver*
+4. Use the runserver: **py manage.py runserver**
 
-5. Open the browser: **http://localhost:8000/*
+5. Open the browser: **http://localhost:8000/**
+
+## Tested with Postmen. (You may use either Postmen or Swagger)
+
