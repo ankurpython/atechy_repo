@@ -49,7 +49,7 @@
 ![update for more than one fields](https://user-images.githubusercontent.com/48859058/116785587-118ba180-aab8-11eb-9918-351dcae02fcf.PNG)
 
 
-## For the Fronennd team they will pass the URL if they are not using the Django temaplates
+## For the Frontend team they will pass the URL if they are not using the Django temaplates
 1. for User signup: **http://localhost:8000/get-create/**
 
 2. for retrieve the data: **http://localhost:8000/retrieve/id**
