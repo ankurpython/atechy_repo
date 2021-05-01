@@ -48,7 +48,7 @@
 
 ![update for more than one fields](https://user-images.githubusercontent.com/48859058/116785346-c1f8a600-aab6-11eb-9f00-e6a4d7a0fd7a.PNG)
 
-# For the Fronennd team they will pass the URL if they are not using the Django temaplates
+## For the Fronennd team they will pass the URL if they are not using the Django temaplates
 1. for User signup: **http://localhost:8000/get-create/**
 
 2. for retrieve the data: **http://localhost:8000/retrieve/id**
