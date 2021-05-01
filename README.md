@@ -19,3 +19,46 @@
 
 ## Tested with Postmen. (You may use either Postmen or Swagger)
 
+### 1. Login Page_1
+
+![Login1](https://user-images.githubusercontent.com/48859058/116785178-c2447180-aab5-11eb-9f99-9a70114de928.PNG)
+
+### 2. Login Page_2
+
+![Login2](https://user-images.githubusercontent.com/48859058/116785198-e0aa6d00-aab5-11eb-8096-ebef9fa545d8.PNG)
+
+### 3.Get Token Page
+
+![photo_2021-05-01_19-48-18](https://user-images.githubusercontent.com/48859058/116785277-4991e500-aab6-11eb-8f33-65786ebf99b3.jpg)
+
+### 4. To get a single user 
+
+![to get single user](https://user-images.githubusercontent.com/48859058/116785294-79d98380-aab6-11eb-883a-9adfeb4186a4.PNG)
+
+### 5. To get all user
+
+![to get all user1](https://user-images.githubusercontent.com/48859058/116785314-9675bb80-aab6-11eb-8723-dd1fd0a7d434.PNG)
+
+### 6. Partial Update
+
+![partial update](https://user-images.githubusercontent.com/48859058/116785340-b1483000-aab6-11eb-9d34-8907d988d7c1.PNG)
+
+
+### 7. Update with more than one field 
+
+![update for more than one fields](https://user-images.githubusercontent.com/48859058/116785346-c1f8a600-aab6-11eb-9f00-e6a4d7a0fd7a.PNG)
+
+# For the Fronennd team they will pass the URL if they are not using the Django temaplates
+1. for User signup: **http://localhost:8000/get-create/**
+
+2. for retrieve the data: **http://localhost:8000/retrieve/id**
+
+3. for update field: **http://localhost:8000/update/id**
+
+
+## References
+
+* About Postmen : **https://learning.postman.com/docs/getting-started/introduction/**
+
+
+### Thank You!
