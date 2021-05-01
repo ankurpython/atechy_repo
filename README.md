@@ -8,7 +8,7 @@
 ## Requirements
 1. Download or Clone the Repository:    **git clone https://github.com/ankurpython/atechy_repo.git**
 
-2. Install the requirement.txt file in your system before that make sure python is installed in your sytem:
+2. Install the requirement.txt file in your system before that make sure python is installed in your system:
     > After installation of Python use the command:  **pip install requirement.txt**
     
 3. After that create the superuser: **py manage.py createsuperuser**
