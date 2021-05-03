@@ -27,7 +27,7 @@
 
 ![Login2](https://user-images.githubusercontent.com/48859058/116785198-e0aa6d00-aab5-11eb-8096-ebef9fa545d8.PNG)
 
-### 3.Get Token Page
+### 3. Get Token Page
 
 ![photo_2021-05-01_19-48-18](https://user-images.githubusercontent.com/48859058/116785277-4991e500-aab6-11eb-8f33-65786ebf99b3.jpg)
 
